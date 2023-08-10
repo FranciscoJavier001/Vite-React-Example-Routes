@@ -8,7 +8,7 @@ export const DcPage = () => {
       <Navbar />
       <div className="container">
         {/* Contenedor donde va a ir el contenido */}
-        <h1 className="text-center mt-1">DC Comics</h1>
+        <h1 className="text-center">DC Comics</h1>
         {/* Un Titulo con una clase */}
         <hr /> {/* Una linea */}
       </div>
